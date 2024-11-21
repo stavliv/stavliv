@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am an Electrical and Computer Engineering student (MSc.), experienced in Python, engaging with various ML topics.
+- 🔭 I'm currently working on various Deep Learning fields, including Generative Models and Deep Reinforcement Learning.
+
 <!--
 **stavliv/stavliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
